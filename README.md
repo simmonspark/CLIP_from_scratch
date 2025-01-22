@@ -1,6 +1,6 @@
 # CLIP_from_scratch
 
-내 첫 멀티모달 raw 구현이다.
+내 첫 멀티모달 구현이다.
 
 ![스크린샷 2025-01-21 18-20-34](https://github.com/user-attachments/assets/bce540a9-dfb7-4464-a042-eb752d737d34)
 
